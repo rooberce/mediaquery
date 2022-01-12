@@ -1,0 +1,17 @@
+body{
+    background-color: #FBCA0B;
+    color: #131313;
+}
+ol{
+    list-style-type: armenian;
+    color: #131313;
+}
+li:hover{
+    background-color: grey;
+}
+li{
+    color: #131313;
+}
+input:focus{
+    background-color: grey;
+}
